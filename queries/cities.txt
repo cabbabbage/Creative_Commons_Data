@@ -1,0 +1,304 @@
+Tech Solutions 1
+Data Industries 2
+Global Technologies 3
+Next Corporation 4
+Bio Systems 5
+Vision Dynamics 6
+Sun Innovations 7
+Soft Concepts 8
+Net Designs 9
+Quantum Networks 10
+Tech Solutions 11
+Data Industries 12
+Global Technologies 13
+Next Corporation 14
+Bio Systems 15
+Vision Dynamics 16
+Sun Innovations 17
+Soft Concepts 18
+Net Designs 19
+Quantum Networks 20
+Tech Solutions 21
+Data Industries 22
+Global Technologies 23
+Next Corporation 24
+Bio Systems 25
+Vision Dynamics 26
+Sun Innovations 27
+Soft Concepts 28
+Net Designs 29
+Quantum Networks 30
+Tech Solutions 31
+Data Industries 32
+Global Technologies 33
+Next Corporation 34
+Bio Systems 35
+Vision Dynamics 36
+Sun Innovations 37
+Soft Concepts 38
+Net Designs 39
+Quantum Networks 40
+Tech Solutions 41
+Data Industries 42
+Global Technologies 43
+Next Corporation 44
+Bio Systems 45
+Vision Dynamics 46
+Sun Innovations 47
+Soft Concepts 48
+Net Designs 49
+Quantum Networks 50
+Tech Solutions 51
+Data Industries 52
+Global Technologies 53
+Next Corporation 54
+Bio Systems 55
+Vision Dynamics 56
+Sun Innovations 57
+Soft Concepts 58
+Net Designs 59
+Quantum Networks 60
+Tech Solutions 61
+Data Industries 62
+Global Technologies 63
+Next Corporation 64
+Bio Systems 65
+Vision Dynamics 66
+Sun Innovations 67
+Soft Concepts 68
+Net Designs 69
+Quantum Networks 70
+Tech Solutions 71
+Data Industries 72
+Global Technologies 73
+Next Corporation 74
+Bio Systems 75
+Vision Dynamics 76
+Sun Innovations 77
+Soft Concepts 78
+Net Designs 79
+Quantum Networks 80
+Tech Solutions 81
+Data Industries 82
+Global Technologies 83
+Next Corporation 84
+Bio Systems 85
+Vision Dynamics 86
+Sun Innovations 87
+Soft Concepts 88
+Net Designs 89
+Quantum Networks 90
+Tech Solutions 91
+Data Industries 92
+Global Technologies 93
+Next Corporation 94
+Bio Systems 95
+Vision Dynamics 96
+Sun Innovations 97
+Soft Concepts 98
+Net Designs 99
+Quantum Networks 100
+Tech Solutions 101
+Data Industries 102
+Global Technologies 103
+Next Corporation 104
+Bio Systems 105
+Vision Dynamics 106
+Sun Innovations 107
+Soft Concepts 108
+Net Designs 109
+Quantum Networks 110
+Tech Solutions 111
+Data Industries 112
+Global Technologies 113
+Next Corporation 114
+Bio Systems 115
+Vision Dynamics 116
+Sun Innovations 117
+Soft Concepts 118
+Net Designs 119
+Quantum Networks 120
+Tech Solutions 121
+Data Industries 122
+Global Technologies 123
+Next Corporation 124
+Bio Systems 125
+Vision Dynamics 126
+Sun Innovations 127
+Soft Concepts 128
+Net Designs 129
+Quantum Networks 130
+Tech Solutions 131
+Data Industries 132
+Global Technologies 133
+Next Corporation 134
+Bio Systems 135
+Vision Dynamics 136
+Sun Innovations 137
+Soft Concepts 138
+Net Designs 139
+Quantum Networks 140
+Tech Solutions 141
+Data Industries 142
+143
+
+
+
+User
+now write a list of 200 cities 
+ChatGPT
+Here's a list of 200 cities from around the world:
+
+New York, USA
+Tokyo, Japan
+London, UK
+Paris, France
+Shanghai, China
+Los Angeles, USA
+Sydney, Australia
+Moscow, Russia
+Mumbai, India
+Istanbul, Turkey
+Seoul, South Korea
+Sao Paulo, Brazil
+Mexico City, Mexico
+Cairo, Egypt
+Beijing, China
+Bangkok, Thailand
+Buenos Aires, Argentina
+Toronto, Canada
+Johannesburg, South Africa
+Tehran, Iran
+Rome, Italy
+Lagos, Nigeria
+Jakarta, Indonesia
+Berlin, Germany
+Madrid, Spain
+Rio de Janeiro, Brazil
+Manila, Philippines
+Karachi, Pakistan
+Lima, Peru
+Bogota, Colombia
+Dhaka, Bangladesh
+Alexandria, Egypt
+Houston, USA
+Vienna, Austria
+Shenzhen, China
+Harbin, China
+Montreal, Canada
+Barcelona, Spain
+Kabul, Afghanistan
+Athens, Greece
+Auckland, New Zealand
+Singapore, Singapore
+Oslo, Norway
+Helsinki, Finland
+Stockholm, Sweden
+Perth, Australia
+Adelaide, Australia
+Brussels, Belgium
+Zurich, Switzerland
+Warsaw, Poland
+Dubai, UAE
+Budapest, Hungary
+Amsterdam, Netherlands
+Milan, Italy
+Prague, Czech Republic
+Copenhagen, Denmark
+Glasgow, UK
+Seattle, USA
+San Francisco, USA
+Detroit, USA
+Philadelphia, USA
+Bengaluru, India
+Chennai, India
+Pune, India
+Osaka, Japan
+Kyoto, Japan
+Fukuoka, Japan
+Busan, South Korea
+Daegu, South Korea
+Naples, Italy
+Turin, Italy
+Florence, Italy
+Lisbon, Portugal
+Porto, Portugal
+Thessaloniki, Greece
+Krakow, Poland
+Wroclaw, Poland
+Sarajevo, Bosnia and Herzegovina
+Belgrade, Serbia
+Ljubljana, Slovenia
+Bratislava, Slovakia
+Riga, Latvia
+Tallinn, Estonia
+Vilnius, Lithuania
+Minsk, Belarus
+Kiev, Ukraine
+Odessa, Ukraine
+Tbilisi, Georgia
+Yerevan, Armenia
+Baku, Azerbaijan
+Almaty, Kazakhstan
+Nur-Sultan, Kazakhstan
+Tehran, Iran
+Mashhad, Iran
+Isfahan, Iran
+Tabriz, Iran
+Karachi, Pakistan
+Lahore, Pakistan
+Islamabad, Pakistan
+Faisalabad, Pakistan
+Antwerp, Belgium
+Geneva, Switzerland
+Lyon, France
+Marseille, France
+Toulouse, France
+Nice, France
+Strasbourg, France
+Bordeaux, France
+Leeds, UK
+Manchester, UK
+Edinburgh, UK
+Bristol, UK
+Birmingham, UK
+Liverpool, UK
+Newcastle, UK
+Sheffield, UK
+Nottingham, UK
+Leicester, UK
+Coventry, UK
+Kingston upon Hull, UK
+Cardiff, UK
+Belfast, UK
+Brighton, UK
+Plymouth, UK
+Stoke-on-Trent, UK
+Wolverhampton, UK
+Derby, UK
+Swansea, UK
+Southampton, UK
+Salford, UK
+Aberdeen, UK
+Westminster, UK
+Portsmouth, UK
+York, UK
+Peterborough, UK
+Dundee, UK
+Lancaster, UK
+Oxford, UK
+Norwich, UK
+Exeter, UK
+Cambridge, UK
+Bath, UK
+Preston, UK
+Milton Keynes, UK
+Luton, UK
+Chester, UK
+Carlisle, UK
+Worcester, UK
+Durham, UK
+Lincoln, UK
+Hereford, UK
+Armagh, UK
+Inverness, UK

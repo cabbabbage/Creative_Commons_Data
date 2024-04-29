@@ -1,0 +1,140 @@
+Diabetes Mellitus
+Hypertension (High Blood Pressure)
+Asthma
+Chronic Obstructive Pulmonary Disease (COPD)
+Osteoarthritis
+Rheumatoid Arthritis
+Chronic Kidney Disease
+Heart Failure
+Coronary Artery Disease
+Stroke
+Hyperlipidemia (High Cholesterol)
+Anemia
+Hypothyroidism
+Acne
+Allergic Rhinitis
+Anxiety Disorders
+Major Depressive Disorder
+Bipolar Disorder
+Schizophrenia
+Autism Spectrum Disorder
+Attention Deficit Hyperactivity Disorder (ADHD)
+Dementia
+Alzheimer's Disease
+Parkinson's Disease
+Multiple Sclerosis
+Amyotrophic Lateral Sclerosis (ALS)
+Epilepsy
+Migraine
+Cataracts
+Glaucoma
+Macular Degeneration
+Psoriasis
+Eczema
+Rosacea
+Melanoma
+Non-Melanoma Skin Cancer
+Breast Cancer
+Prostate Cancer
+Lung Cancer
+Colorectal Cancer
+Leukemia
+Lymphoma
+Hepatitis A
+Hepatitis B
+Hepatitis C
+HIV/AIDS
+Tuberculosis
+Malaria
+Dengue Fever
+Zika Virus Infection
+Cholera
+Typhoid Fever
+Influenza
+Pneumonia
+Meningitis
+Osteoporosis
+Gout
+Sarcopenia
+Fibromyalgia
+Chronic Fatigue Syndrome
+Irritable Bowel Syndrome
+Inflammatory Bowel Disease (Crohn's Disease and Ulcerative Colitis)
+Celiac Disease
+Peptic Ulcer Disease
+Gastritis
+Pancreatitis
+Hepatocellular Carcinoma
+Cirrhosis
+Cholecystitis
+Kidney Stones
+Urinary Tract Infection
+Prostatitis
+Erectile Dysfunction
+Polycystic Ovary Syndrome (PCOS)
+Endometriosis
+Menopause
+Premenstrual Syndrome (PMS)
+Infertility
+Miscarriage
+Ectopic Pregnancy
+Preeclampsia
+Gestational Diabetes
+Thyroid Cancer
+Addison's Disease
+Cushing's Syndrome
+Graves' Disease
+Hashimoto's Thyroiditis
+Pulmonary Embolism
+Deep Vein Thrombosis
+Varicose Veins
+Peripheral Artery Disease
+Aortic Aneurysm
+Arrhythmias
+Angina
+Myocardial Infarction (Heart Attack)
+Sudden Cardiac Arrest
+Congenital Heart Disease
+Mitral Valve Prolapse
+Atrial Fibrillation
+Ventricular Tachycardia
+Hypertrophic Cardiomyopathy
+Dilated Cardiomyopathy
+Sepsis
+Anaphylaxis
+Urticaria (Hives)
+Angioedema
+Contact Dermatitis
+Vitiligo
+Alopecia Areata
+Bullous Pemphigoid
+Lichen Planus
+Scleroderma
+Lupus Erythematosus
+Dermatomyositis
+Polymyositis
+Gastroesophageal Reflux Disease (GERD)
+Esophageal Cancer
+Stomach Cancer
+Pancreatic Cancer
+Gallbladder Cancer
+Bladder Cancer
+Ovarian Cancer
+Cervical Cancer
+Uterine Cancer
+Testicular Cancer
+Bone Cancer
+Sarcoma
+Multiple Myeloma
+Cystic Fibrosis
+Sickle Cell Disease
+Hemophilia
+Thalassemia
+Aplastic Anemia
+Iron Deficiency Anemia
+Pernicious Anemia
+Hemochromatosis
+Wilson's Disease
+Porphyria
+Huntington's Disease
+Duchenne Muscular Dyst
